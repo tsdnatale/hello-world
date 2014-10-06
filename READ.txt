@@ -8,7 +8,7 @@ tdd
 ci
 	example
 
-github wtf
+github
 
 fx cop
 	
