@@ -1,0 +1,22 @@
+
+angular directives
+
+tdd
+	bll testing example
+
+
+ci
+	example
+
+github wtf
+
+fx cop
+	
+mvc tools
+
+mvc controllers
+
+mvc app structure
+
+NUnit
+	advanced
